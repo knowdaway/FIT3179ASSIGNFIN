@@ -1,0 +1,51 @@
+[
+  {
+    "region": "Australian",
+    "domestic": 1726605.7154,
+    "industrial": 82736881.968,
+    "irrigation": 56029771.9557,
+    "year": 2016
+  },
+  {
+    "region": "Australian",
+    "domestic": 1802989.9736,
+    "industrial": 83766082.2331,
+    "irrigation": 55400302.2851,
+    "year": 2017
+  },
+  {
+    "region": "Australian",
+    "domestic": 1817364.8478,
+    "industrial": 76857936.4793,
+    "irrigation": 53117963.3471,
+    "year": 2018
+  },
+  {
+    "region": "Australian",
+    "domestic": 1816678.9874,
+    "industrial": 76509604.7662,
+    "irrigation": 56400418.4799,
+    "year": 2019
+  },
+  {
+    "region": "Australian",
+    "domestic": 1809099.4412,
+    "industrial": 76474489.893,
+    "irrigation": 50997645.3531,
+    "year": 2020
+  },
+  {
+    "region": "Australian",
+    "domestic": 1778871.8913,
+    "industrial": 79097431.9429,
+    "irrigation": 52755510.6283,
+    "year": 2021
+  },
+  {
+    "region": "Australian",
+    "domestic": 1778871.8913,
+    "industrial": 79097431.9429,
+    "irrigation": 52755510.6283,
+    "year": 2022
+  }
+]
